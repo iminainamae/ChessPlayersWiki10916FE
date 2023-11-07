@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChessPlayersWiki10916FE.props" />
+</Project>

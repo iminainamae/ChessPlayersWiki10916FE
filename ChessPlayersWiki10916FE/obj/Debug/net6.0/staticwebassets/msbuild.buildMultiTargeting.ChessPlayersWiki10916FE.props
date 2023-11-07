@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChessPlayersWiki10916FE.props" />
+</Project>
